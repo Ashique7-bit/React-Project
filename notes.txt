@@ -1,0 +1,4 @@
+#Hot Reload ---> changes in code reflect instantly in browser.
+component -- js function sprinkle with markup
+export - component export for reuse
+jsx - syntax extension for js and let to write html inside js file
